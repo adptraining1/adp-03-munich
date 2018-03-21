@@ -1,1 +1,3 @@
 This is the manual for the application
+
+intro to the sense it tries to make
