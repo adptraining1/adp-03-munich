@@ -10,3 +10,6 @@ Pleas mind reading the manual.txt file for a quickstart. Lorem ipsum ...
 sudo apt-get install tomcat7
 
 ## Quickstart
+Read this
+
+Read that 
